@@ -1,5 +1,4 @@
-# POOTypeScriptJava
-Programação orientada a objetos com java e typescript.
+# Quiz Dinâmico
 
 <h3>Quiz Dinâmico</h3>
 <p>Quiz dinâmico feito com HTML, CSS e JavaScript. </p>
